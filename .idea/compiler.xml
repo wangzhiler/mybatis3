@@ -9,6 +9,8 @@
         <module name="mybatis_01_HelloWorld" />
         <module name="mybatis_02_config" />
         <module name="mybatis_03_mapper" />
+        <module name="mybatis_03_mapper (1)" />
+        <module name="mybatis_04_dynamicSQL" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +19,8 @@
       <module name="mybatis_01_HelloWorld" target="1.5" />
       <module name="mybatis_02_config" target="1.5" />
       <module name="mybatis_03_mapper" target="1.5" />
+      <module name="mybatis_03_mapper (1)" target="1.5" />
+      <module name="mybatis_04_dynamicSQL" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
